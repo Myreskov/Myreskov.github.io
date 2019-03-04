@@ -1,0 +1,44 @@
+body{
+font-family:serif;
+color:black;
+}
+
+.asdf {
+color:black;
+}
+
+h1{
+  color:black;
+  background:pink;
+}
+em:hover{
+  front-size:2em;
+}
+.qwer{
+color:black;
+margin:2em;
+Padding:.3em;
+border: 5px solid pink;
+}
+
+HTML{
+  background-color: Beige;
+}
+
+#hej{
+  background-image: url(https://66.media.tumblr.com/bc64ce9d6379fcbe637cbffd7fe395cb/tumblr_oz0lcoe5Rh1vbnxlbo1_400.jpg);
+
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.foto2{
+  float: right;
+  width: 50%;
+  margin: auto;
+  overflow: hidden;
+}
